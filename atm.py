@@ -38,7 +38,7 @@ class ATM:
 
         if old ==self.__pin:
 
-            self.__pin ==pas
+            self.__pin =pas
 
             return self.__pin
         else:
